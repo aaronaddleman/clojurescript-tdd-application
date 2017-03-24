@@ -24,9 +24,9 @@ FIXME: listing of options this app accepts.
 
 ...
 
-### Any Other Sections
-### That You Think
-### Might be Useful
+### Tutorial
+
+https://8thlight.com/blog/eric-smith/2016/10/05/a-testable-clojurescript-setup.html
 
 ## License
 
