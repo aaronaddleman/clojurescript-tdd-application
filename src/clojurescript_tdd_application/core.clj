@@ -1,7 +1,7 @@
-(ns clojurescript-tdd-application.core
-  (:gen-class))
+(ns clojurescript_tdd_application.core)
 
-(defn -main
-  "I don't do a whole lot ... yet."
-  [& args]
-  (println "Hello, World!"))
+(defn main []
+  (enable-console-print!)
+  (prn "Hello, World!"))
+
+(main)
